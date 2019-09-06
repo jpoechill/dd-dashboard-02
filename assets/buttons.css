@@ -1,0 +1,41 @@
+.btn-blue {
+    background-color: #007bff !important;
+    border-radius: 50px!important;
+    transition: .4s ease-in-out;
+    color: #fff !important;
+    padding: 4px 30px !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.btn-red {
+  background-color: #DC3545 !important;
+  border-radius: 50px !important;
+  transition: .4s ease-in-out;
+  color: #fff !important;
+  padding: 4px 30px !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.btn-blue:hover {
+  background-color: #005BBF !important;
+}
+
+.btn-red:hover {
+  background-color: #B5313E !important;
+}
+
+.btn-hamburger {
+  background-color: #007bff!important;
+  padding: 5px 9px!important;
+  box-shadow: none!important;
+}
+
+.hamburger {
+  width: 20px;
+  height: 3px;
+  border-radius: 30px;
+  background-color: #fff;
+  margin: 3px 0;
+}
